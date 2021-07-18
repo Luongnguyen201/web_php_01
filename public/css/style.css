@@ -1,0 +1,28 @@
+.item{
+	margin-top: 16px;
+	font-size: 40px;
+	text-align: center;
+	min-height: 380px;
+	line-height: 380px;
+	background-color: white;
+}
+.text{
+	color: black;
+	font-size: 15px;
+}
+.card-img-top{
+	max-width: 100%;
+	height: auto;
+}
+.item2{
+	margin-top: 16px;
+	font-size: 40px;
+	color: black;
+	text-align: center;
+	min-height: 200px;
+	line-height: 200px;
+	background-color: white;
+}
+.check{
+    display: none !important;
+}
